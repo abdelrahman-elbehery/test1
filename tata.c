@@ -10,7 +10,7 @@ int main()
 int main(){
 	
 	
-	printf("y=%d",y);
+	printf("value of y=%d",y);
 	
 }
 #else
